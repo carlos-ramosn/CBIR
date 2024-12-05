@@ -56,7 +56,7 @@ CBIR/
 │   ├── app.py                     # Interfaz Streamlit
 │   ├── functions.py               # Funciones auxiliares
 │   ├── index_creation.py          # Creación de índices
-│   └── main.py                    # Script principal
+│   └── main.py                    
 ├── .gitignore                     # Archivos a ignorar por Git
 ├── README.md                      # Documentación del proyecto
 └── requirements.txt               # Librerías necesarias
