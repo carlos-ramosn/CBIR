@@ -27,7 +27,7 @@ El proyecto emplea imágenes del dataset [Dogs and Cats Breed Classification Dat
 1. **Imágenes Utilizadas:**
    - [Conjunto de raw (`raw`)](https://universe.roboflow.com/ldrago/dogs-and-cats-breed-detector
    )
-   - [Imágenes Preprocesadas (`preprocessed`)] (https://drive.google.com/file/d/1F6rw-2WegNB1t4ahD2hvxrTgVStR5EqF/view?usp=drive_link)
+   - [Imágenes Preprocesadas (`preprocessed`)](https://drive.google.com/file/d/1F6rw-2WegNB1t4ahD2hvxrTgVStR5EqF/view?usp=drive_link)
 
 2. **Archivos Intermedios:**
    - [Características Calculadas (`npy`) y Escaladores (`pkl`)](https://drive.google.com/file/d/16I4gBXa-CtIqEGW1XvALs5nC-ozI_Ewo/view?usp=drive_link)
