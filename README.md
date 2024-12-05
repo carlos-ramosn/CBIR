@@ -10,7 +10,7 @@ Este repositorio implementa un sistema CBIR (Content-Based Image Retrieval) que 
 3. [Estructura del Proyecto](#estructura-del-proyecto)
 4. [Instrucciones de Instalación](#instrucciones-de-instalación)
 5. [Uso del Sistema](#uso-del-sistema)
-6. [Notas Importantes](#notas-importantes)
+6. [Resultados](#resultados)
 
 ---
 
@@ -109,8 +109,9 @@ streamlit run src/app.py
    - **Características CNN**
    - **Características Combinadas**
 3. Visualiza las imágenes más similares recuperadas por el sistema.
+--- 
 
-# Resultados
+## Resultados
 
 A continuación, se muestra cómo funciona mi sistema:
 
