@@ -110,3 +110,8 @@ streamlit run src/app.py
    - **Características Combinadas**
 3. Visualiza las imágenes más similares recuperadas por el sistema.
 
+# Resultados
+
+A continuación, se muestra cómo funciona mi sistema:
+
+![Resultado de ejecución](results.png)
