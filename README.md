@@ -49,10 +49,10 @@ CBIR/
 │   └── processed/
 │       ├── npy/                   # Archivos .npy con características extraídas
 │       └── scalers/               # Escaladores normalizados
-├── indices/                       # Índices FAISS
 ├── notebooks/                     # Jupyter Notebooks
 │   └── feature_extraction.ipynb   # Notebook para extracción de características
 ├── src/                           # Código fuente
+|   ├── indices/                   # Índices FAISS
 │   ├── app.py                     # Interfaz Streamlit
 │   ├── functions.py               # Funciones auxiliares
 │   ├── index_creation.py          # Creación de índices
